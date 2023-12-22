@@ -1,5 +1,5 @@
 {
-  "name": "slyusarchyn/yotpo-service",
+  "name": "mattc321/yotpo-service-php8-compat",
   "description": "Laravel YOTPO service (YOTPO API)",
   "type": "library",
   "license": "GPL-2.0",
